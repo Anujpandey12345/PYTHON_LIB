@@ -28,3 +28,4 @@ values = {"A":100, "B":3, "C":900, "D":77, "E":98}
 print(df.fillna(value=values))
 print(df.fillna(0, inplace=True)) #fill Zero in Each nan
 print(df.fillna(df.mean()))  #Fill Avg 
+print(df.fillna(df.mean()))
