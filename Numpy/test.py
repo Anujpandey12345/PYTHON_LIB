@@ -14,11 +14,13 @@
 
 
 
-SELECT DISTINCT salary
-FROM emp
-WHERE salary <> 10000 
-ORDER BY salary DESC
-LIMIT 1 OFFSET (N - 1);
+# SELECT DISTINCT salary
+# FROM emp
+# WHERE salary <> 10000 
+# ORDER BY salary DESC
+# LIMIT 1 OFFSET (N - 1);
+
+
 
 
 
