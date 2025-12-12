@@ -1,16 +1,16 @@
-# list = [1, 1, 3, 5, 2, 2]
-# cout = {}
-# for i in list:
-#     if i in cout:
-#         cout[i] += 1
-#     else:
-#         cout[i] = 1
-# print(cout)
+list = [1, 1, 3, 5, 2, 2]
+cout = {}
+for i in list:
+    if i in cout:
+        cout[i] += 1
+    else:
+        cout[i] = 1
+print(cout)
 
 
-# x = 10
-# sqr = lambda x : x * x
-# print(sqr)    
+x = 10
+sqr = lambda x : x * x
+print(sqr)    
 
 
 
