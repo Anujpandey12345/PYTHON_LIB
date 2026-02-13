@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 2539a05130c9f347050ebbfb87c51a2ee4bb80e6 Anuj Kumar <anujpandey61687@gmail.com> 1764363229 +0530	commit (initial): first commit
+2539a05130c9f347050ebbfb87c51a2ee4bb80e6 2539a05130c9f347050ebbfb87c51a2ee4bb80e6 Anuj Kumar <anujpandey61687@gmail.com> 1764363234 +0530	Branch: renamed refs/heads/master to refs/heads/master
+2539a05130c9f347050ebbfb87c51a2ee4bb80e6 367842921d67dbc0b46d2777ff5319e825ad5824 Anuj Kumar <anujpandey61687@gmail.com> 1764396099 +0530	commit: Learn about Array Indexing in NumPy
+367842921d67dbc0b46d2777ff5319e825ad5824 1b1bbfa4d1c41005cc705d0b4cb40835e77f78e8 Anuj Kumar <anujpandey61687@gmail.com> 1764400765 +0530	commit: Push Advanvce
+1b1bbfa4d1c41005cc705d0b4cb40835e77f78e8 b4f8600de94c5eb1c35bc2f32487b4ad7afd9c50 Anuj Kumar <anujpandey61687@gmail.com> 1764443138 +0530	commit: Numpy Exercise
+b4f8600de94c5eb1c35bc2f32487b4ad7afd9c50 371d9611c333dc94ba0ac3305a48e3c6134850a3 Anuj Kumar <anujpandey61687@gmail.com> 1764479968 +0530	commit: Add pandas
+371d9611c333dc94ba0ac3305a48e3c6134850a3 d9d5ebbc371a9e8be64d6f498f07a1d8a6e02621 Anuj Kumar <anujpandey61687@gmail.com> 1764481434 +0530	commit: Add series
+d9d5ebbc371a9e8be64d6f498f07a1d8a6e02621 d9e5e54749e785738507cc19b0d769b465374d09 Anuj Kumar <anujpandey61687@gmail.com> 1764530009 +0530	commit: Add dataframe
+d9e5e54749e785738507cc19b0d769b465374d09 b8b786533034a04663230624d4a5d51de1a6e66b Anuj Kumar <anujpandey61687@gmail.com> 1764677117 +0530	commit: Today i have learned groupBy and Aggregation
+b8b786533034a04663230624d4a5d51de1a6e66b fd7592c9950bcb16e90689b88fc126fa5f4292ce Anuj Kumar <anujpandey61687@gmail.com> 1764679921 +0530	commit: Now i'm learned Pivot_Table and CrossTab
+fd7592c9950bcb16e90689b88fc126fa5f4292ce 6bf093ff145b535a5ca2ca4d76188a1fd2be6c75 Anuj Kumar <anujpandey61687@gmail.com> 1764739310 +0530	commit: Add some operations
+6bf093ff145b535a5ca2ca4d76188a1fd2be6c75 bb22713bc386982ba422f2a075e27e4f6d4acd88 Anuj Kumar <anujpandey61687@gmail.com> 1764745620 +0530	commit: Add Project1
+bb22713bc386982ba422f2a075e27e4f6d4acd88 14ffc1e5bf9189f85b69081b7491ae1364b042c0 Anuj Kumar <anujpandey61687@gmail.com> 1764850135 +0530	commit: Add Project2
+14ffc1e5bf9189f85b69081b7491ae1364b042c0 5d65c88fb7fc3f77d59c6f068ea459b3dc61af5a Anuj Kumar <anujpandey61687@gmail.com> 1765301440 +0530	commit: Add
+5d65c88fb7fc3f77d59c6f068ea459b3dc61af5a c2f30a9c2d49765e10e7db7edc17686d6218c82d Anuj Kumar <anujpandey61687@gmail.com> 1765359053 +0530	commit: Interviews
+c2f30a9c2d49765e10e7db7edc17686d6218c82d 49bd4ea44e03a07441af5ad305380e3f836e1526 Anuj Kumar <anujpandey61687@gmail.com> 1765461958 +0530	commit: Add comment
+49bd4ea44e03a07441af5ad305380e3f836e1526 2a3628cd4ef59d4ee1e9e7cc4aaf60fba72a3811 Anuj Kumar <anujpandey61687@gmail.com> 1765542671 +0530	commit: Python
+2a3628cd4ef59d4ee1e9e7cc4aaf60fba72a3811 a7dc0f35c84cdc3a97b2fd1a9ec3ae39246222d5 Anuj Kumar <anujpandey61687@gmail.com> 1765635166 +0530	commit: practice
+a7dc0f35c84cdc3a97b2fd1a9ec3ae39246222d5 cd0841d810f44ff5aa3150ecab82ffea9b558511 Anuj Kumar <anujpandey61687@gmail.com> 1769623721 +0530	commit: GroupBy Operation are done in this file
+cd0841d810f44ff5aa3150ecab82ffea9b558511 94f97a066cb048a56d902c96e5518514ef3c2882 Anuj Kumar <anujpandey61687@gmail.com> 1769706275 +0530	commit: Display dataFrame and Marks of students
+94f97a066cb048a56d902c96e5518514ef3c2882 10dfc84f7ee045c003642e844012b1b543462fc8 Anuj Kumar <anujpandey61687@gmail.com> 1770132610 +0530	commit: Add matplotlib plot to visualize completed projects timeline
+10dfc84f7ee045c003642e844012b1b543462fc8 ef1a406ddc720824549226b4f813ec1741037377 Anuj Kumar <anujpandey61687@gmail.com> 1770227363 +0530	commit: Makeing a matplot lib
+ef1a406ddc720824549226b4f813ec1741037377 7915a6de5e0373f1bd1712696ad44e59d193cd9f Anuj Kumar <anujpandey61687@gmail.com> 1770313704 +0530	commit: Make app.log file and find error
+7915a6de5e0373f1bd1712696ad44e59d193cd9f 4a4a9b8c2675297d9cfaa60bd7f35c5d3ce2c3e9 Anuj Kumar <anujpandey61687@gmail.com> 1770829904 +0530	commit: Add population comparison visualization using Matplotlib
